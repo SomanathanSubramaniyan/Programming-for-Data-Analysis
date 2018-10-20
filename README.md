@@ -1,12 +1,19 @@
 # Programming-for-Data-Analysis
-Assessment repository for Programming for Data Analysis
 
-1. Copy "Assignment-2018-Numpy.ipynb" into a local folder
-2. Open CMder or Command prompt
-3. Change the current directory in the command prompt to the directory/folder where the "Assignment-2018-Numpy.ipynb" was copied
-4. Type in Jupyter notebook
-5. The Juypter notebook will display the directory/folder where the "Assignment-2018-Numpy.ipynb" was copied
-6. Click on the the "Assignment-2018-Numpy.ipynb" file
+The assigment answers are in the Jupyter note (Assignment-2018-Numpy.ipynb) and in this source repository. To open and the run the juypter notebook, the below softwares needs to be installed in your laptop/desktop
+
+  - Anaconda 5.3 For Windows
+  - python 3.7 version
+  - Jupyter notebook package
+  
+Follow the below steps to run the Assignment-2018-Numpy.ipynb in your laptop/desktop
+
+- Copy "Assignment-2018-Numpy.ipynb" into a local folder
+- Open CMder or Command prompt
+- Change the current directory in the command prompt to the directory/folder where the "Assignment-2018-Numpy.ipynb" was copied
+- Type in Jupyter notebook
+- The Juypter notebook will display the directory/folder where the "Assignment-2018-Numpy.ipynb" was copied
+- Click on the the "Assignment-2018-Numpy.ipynb" file
 
 
 
