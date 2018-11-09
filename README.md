@@ -1,4 +1,4 @@
-# Programming-for-Data-Analysis
+# Programming for Data Analysis - Assignment 
 
 This GITHUB repository contains assigment answers for 'Programming for Data Analysis' module. The answers are in the Jupyter note, Assignment-2018-Numpy.ipynb which is added to this repository. 
 
