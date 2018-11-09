@@ -2,7 +2,7 @@
 
 This GITHUB repository contains assigment answers for 'Programming for Data Analysis' module. The answers are in the Jupyter note, Assignment-2018-Numpy.ipynb which is added to this repository. 
 
-Prerequisite softwares to open and to run the ipynb file are listed below
+Prerequisite softwares to open and run the "ipynb" file are listed below
 
   - Anaconda 5.3 For Windows
   - python 3.7 version
